@@ -1,0 +1,1 @@
+#environments: ["dev", "stage", "prod"]
